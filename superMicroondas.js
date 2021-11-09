@@ -87,8 +87,22 @@ function microondas(prato,tempo){
     }
   }
 
+/*
+Na função microondas o primeiro "espaço" e para o prato e o segundo para um 
+tempo qualquer a sua escolha.
 
-microondas(3,15);
+ex: microondas(prato,tempo);
+    microondas(3,29);
+
+Pratos:
+      1 - Pipoca
+      2 - Macarrão
+      3 - Carne
+      4 - Feijão
+      5 - Brigadeiro
+*/
+
+microondas(9,15);
 microondas(3,29);
 microondas(3,14);
 microondas(3,30);
